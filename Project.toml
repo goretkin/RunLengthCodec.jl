@@ -1,0 +1,7 @@
+name = "RunLengthCodec"
+uuid = "8b40ad3e-9b7e-4aaa-99cf-1be18ab7eacc"
+authors = ["Gustavo Goretkin <gustavo.goretkin@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.4"
